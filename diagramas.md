@@ -1,5 +1,11 @@
 # Diagramas del Sistema
 
+Documentación visual y técnica del sistema:
+- [Diagramas de Flujo y Navegación (Hitos 2 y 4)](./diagramas.md)
+- [Modelo Entidad-Relación de Base de Datos (Hito 5)](./modelo_erd.md)
+
+---
+
 ## 2. Hito 2: Diagramas de Flujo en Markdown / Mermaid
 
 ### 2.1 Diagrama del Ciclo de Vida del Trabajo y Procesamiento de Pago (Flujo Principal)
